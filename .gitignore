@@ -1,0 +1,4 @@
+target/
+share/*
+.metadata/
+.DS_Store
